@@ -2,4 +2,4 @@ Farr Resolusi 2025:
 1. Konsisten Ngoding Android, Desktop dan Website(Opsional)
 2. Bisa membuat API sendiri sebelum kelas 11
 3. Konsisten Belajar demi mencapai tujuan
-4. Memahami Android, Website, dan Desktop lebih dalam
+4. Memahami Android, ASP NET dan Desktop lebih dalam
